@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0561AAE5-F4EF-4089-8E12-78CE13EA44D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapTab</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B0F40B49B9BF5BC6A49B8BA09F9CF13F9B62EFD0</key>
+		<string>https://github.com/mohdt-optimus/map_app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MapTab.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B0F40B49B9BF5BC6A49B8BA09F9CF13F9B62EFD0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mohdt-optimus/map_app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B0F40B49B9BF5BC6A49B8BA09F9CF13F9B62EFD0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B0F40B49B9BF5BC6A49B8BA09F9CF13F9B62EFD0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>map_app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
